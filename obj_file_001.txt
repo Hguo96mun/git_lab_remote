@@ -1,1 +1,6 @@
-hi, ghl
+another_usr say: 
+	hi, ghl
+
+ghl say: 
+	fuck off
+
