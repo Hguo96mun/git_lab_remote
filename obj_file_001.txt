@@ -1,9 +1,0 @@
-another_usr say: 
-	hi, ghl
-
-ghl say: 
-	fuck off
-another_usr say: 
-	aha
-ghl say: 
-	aha
