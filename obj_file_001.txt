@@ -3,4 +3,6 @@ another_usr say:
 
 ghl say: 
 	fuck off
+another_usr say: 
+	aha
 
